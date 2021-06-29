@@ -17,6 +17,9 @@ The dataset is downloaded from [UCI Machine Learning repository](https://archive
 The data consists of 1503 entries, each having 5 features. 
 Target variable: Sound_pressure_level 
 
-## Credits
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
+## Reference
 
 Thanks to Hackerearth for putting out this tutorial [linear regression analysis using R](https://www.hackerearth.com/practice/machine-learning/machine-learning-algorithms/beginners-guide-regression-analysis-plot-interpretations/tutorial/).
