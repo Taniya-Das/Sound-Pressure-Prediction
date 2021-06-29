@@ -24,4 +24,4 @@ First five entries of the dataset:
 
 ## Reference
 
-Thanks to Hackerearth for putting out this tutorial [linear regression analysis using R](https://www.hackerearth.com/practice/machine-learning/machine-learning-algorithms/beginners-guide-regression-analysis-plot-interpretations/tutorial/).
+Thanks to Hackerearth for putting out this tutorial - [linear regression analysis using R](https://www.hackerearth.com/practice/machine-learning/machine-learning-algorithms/beginners-guide-regression-analysis-plot-interpretations/tutorial/).
