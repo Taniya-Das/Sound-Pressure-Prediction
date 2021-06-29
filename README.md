@@ -1,4 +1,4 @@
-# Sound-Pressure-Prediction-using-Linear-Regression
+# Sound Pressure Prediction using Linear Regression
 
 ---
 
@@ -8,7 +8,7 @@ Predict sound pressure level for airfoil blade sections when  from a series of a
 
 ## Method Used
 
-I have performed a regression analysis using Linear Regression model to predict the sound pressure level. Analysis is done in two ways first in where linear regression is performed using sklearn's build-in library and second is by writing my own functions for computing cost and gradient descents. Lastly, root mean square error (RMSE) metric is used to access the model's performance, wherein both the ways have yielded similar RMSE.  
+Regression analysis (using Linear Regression model) is performed to predict the sound pressure level. Analysis is done in two ways first in where linear regression is performed using sklearn's build-in library and second is by writing my own functions for computing cost and gradient descents. Lastly, root mean square error (RMSE) metric is used to access the model's performance, wherein both the ways have yielded similar RMSE.  
 
 
 ## Dataset
