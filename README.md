@@ -14,10 +14,11 @@ I have performed a regression analysis using Linear Regression model to predict 
 ## Dataset
 
 The dataset is downloaded from [UCI Machine Learning repository](https://archive.ics.uci.edu/ml/datasets/Airfoil+Self-Noise). 
-The data consists of 1503 entries, each having 5 features. 
+The data consists of 1503 entries, each having 5 features.\ 
 Target variable: Sound_pressure_level 
 
-<img width="506" alt="Capture" src="https://user-images.githubusercontent.com/30569154/123829480-205bcc80-d920-11eb-916c-f30165333f3d.PNG">
+First five entries of the dataset:\
+<img width="623" alt="Capture" src="https://user-images.githubusercontent.com/30569154/123829819-62850e00-d920-11eb-8504-b93f25997637.PNG">
 
 
 ## Reference
