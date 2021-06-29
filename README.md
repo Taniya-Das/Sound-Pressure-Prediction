@@ -17,6 +17,7 @@ The dataset is downloaded from [UCI Machine Learning repository](https://archive
 The data consists of 1503 entries, each having 5 features. 
 Target variable: Sound_pressure_level 
 
+<img width="506" alt="Capture" src="https://user-images.githubusercontent.com/30569154/123829480-205bcc80-d920-11eb-916c-f30165333f3d.PNG">
 
 
 ## Reference
